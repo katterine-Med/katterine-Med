@@ -1,5 +1,7 @@
 <div align='center'>
 <h1>Holi, soy Katth 💛 </h1>
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <h2>Estudiante de Front-end Developer en https://www.laboratoria.la/</h2>
  <p align="center">
 Soy Katerine, pero katth me gusta mas 🖤
